@@ -23,7 +23,6 @@ This Bash script is designed to monitor the CPU and memory usage of your system 
 
 To use this script, follow these steps:
 
-1. **Clone the Repository**:
    ```bash
    git clone repo_url
    cd repo-name
